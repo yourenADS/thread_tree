@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+  int x;
+  scanf("%d",&x);
+  printf("this number is %d",x);
+  return 0;
+}
